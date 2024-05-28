@@ -49,11 +49,10 @@ To complete the assignment, you need to perform the following eight major tasks:
 6. **Model Building Using Supervised Learning**
    - Use the labeled data (from the NMF topic modeling) to train a supervised machine learning model.
    - Possible models include:
-     - Logistic Regression
+     - Logistic regression
      - Decision Tree
      - Random Forest
-     - Support Vector Machines (SVM)
-     - Neural Networks (optional, for advanced performance)
+     - Naive Bayes (optional)
 
 7. **Model Training and Evaluation**
    - Split the data into training and test sets.
